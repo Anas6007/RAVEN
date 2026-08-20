@@ -1,0 +1,18 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+
+sqlalchemy==2.0.51
+aiosqlite==0.21.0
+alembic==1.16.5
+# asyncpg==0.30.0   # فعّل هذا السطر إن استخدمت Postgres بدل SQLite (موصى به عند الحجم الكبير)
+
+redis==6.4.0
+
+apscheduler==3.11.0
+
+pydantic==2.11.9
+pydantic-settings==2.11.0
+
+python-dotenv==1.2.2
+
+loguru==0.7.3
